@@ -28,7 +28,7 @@ namespace DAC_Demoa
         {
             InitializeComponent();
             LoadRecord();
-            ConfigManager.SetConfigPath(@"C:\Users\Jinvi\source\repos\DAC_Demoa\DAC_Demoa\bin\Debug\Resource\AAS.config");
+            ConfigManager.SetConfigPath(@"~\Resource\AAS.config");
             //this code set data into checkboxlist
             //var iraiData = FakeServer.GetIraiList();
 
